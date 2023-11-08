@@ -32,3 +32,15 @@
 - [x] Du texte
 - [x] Une vidéo YouTube
 - [x] Une galerie photo
+
+#### Exemple du rendu attendu
+
+Accueil
+
+![img1](./img/miam/accueil1.png)
+
+---
+
+Page de "qui sommes-nous"
+
+![img2](./img/miam/nous.png)

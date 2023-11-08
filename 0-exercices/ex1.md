@@ -22,4 +22,18 @@
 - [x] Un titre, du texte, une image et une référence (un lien vers un site connu qui traite le même sujet que votre article)
 - [x] Des catégories
 - [x] Des étiquettes
-- [x] Attribuez à vos articles une catégorie principale et un ou plusieurs étiquettes 
+- [x] Attribuez à vos articles une catégorie principale et un ou plusieurs étiquettes
+
+#### Exemple du rendu attendu
+
+Page de tous les articles
+
+![img1](./img/miam/blog1.png)
+
+---
+
+Page de l'article détaillé
+
+![img2](./img/miam/blog2.png)
+
+

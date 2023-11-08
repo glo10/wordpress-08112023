@@ -17,3 +17,9 @@
 - Page des articles
 - Page de politique de confidentialité
 - Page "Qui sommes-nous ?"
+
+#### Exemple du rendu attendu
+
+Menu de navigation
+
+![img1](./img/miam/menu.png)
