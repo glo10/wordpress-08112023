@@ -33,7 +33,7 @@
 - Les coordonnées du loueur
 6. Trouvez un plugin qui permet de créer un espace membre pour les visiteurs
 7. En plus de votre compte d'administration, créez un nouveau compte avec des droits restreints permettant de créer les articles, voitures et limitez l'accès aux autres menus du back-office.
-9. Créez une page détaillée d'un véhicule contenant toutes les informations et avec un bouton pour faire la demande de location. Au clic sur ce bouton, l'utilisateur est redirigé vers une page avec un formulaire qui possède les champs suivants :
+8. Créez une page détaillée d'un véhicule contenant toutes les informations et avec un bouton pour faire la demande de location. Au clic sur ce bouton, l'utilisateur est redirigé vers une page avec un formulaire qui possède les champs suivants :
 - Nom
 - Prénom
 - Téléphone
@@ -43,6 +43,5 @@
 - Message
 - Bouton "Demande de location"
 PS : pour l'affichage des champs ACF, vous pouvez utiliser l'extension [ACF Views Lite](https://wordpress.org/plugins/acf-views/)
-10. Trouvez un moyen de récupérer les flux rss de [Turbo](https://www.turbo.fr/actualites.xml) et de les afficher quelque part sur votre site.
-11. Soyez créatif, ajoutez tout ce que vous voulez...
-WPCode
+9. Trouvez un moyen de récupérer les flux rss de [Turbo](https://www.turbo.fr/actualites.xml) et de les afficher quelque part sur votre site.
+10. Soyez créatif, ajoutez tout ce que vous voulez...
