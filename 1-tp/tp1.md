@@ -1,41 +1,48 @@
 # TP : location de voiture
 
-# Enoncé
+---
+
+# Énoncé
 
 1. Créez un nouveau site avec LocalWP.
-2. Installez le thème Hello Elementor.
+2. Installez le thème de votre choix.
 3. Installez et activez le plugin Elementor.
-4. Laissez-vous guider par le thème Hello Elementor, choisissez un modèle parmi les modèles existants
-5. Créez à l'aide d'ACF ou équivalent un "custom type" Voitures avec les caractéristiques suivantes
-- Localisation (latitude, longitude) qui seront reportés dans une carte
+4. Créez une page d'accueil avec Elementor.
+5. Créez à l'aide d'ACF ou équivalent un "custom type" de type voitures avec les champs suivants :
+- Titre
 - Prix
 - Marque
 - Modèle
 - Année
-- Boite de vitesse
-- équipements (une liste de tous les équipements de la voiture)
+- Moteur ou énergie (liste déroulante essence, diesel, gpl, etc)
+- Boite de vitesse (liste déroulante manuel, automatique)
+- Équipements  (une liste de tous les équipements de la voiture)
 - Plaque d'immatriculation
-- énergie
 - Photo principale
-- Photo extérieur
-- Photo intérieur
+- Photo extérieure
+- Photo intérieure
 - Date et heure de début de disponibilité
 - Date et heure de fin de disponibilité
 - Déverrouillage automatique (oui/non)
 - Nombre de place
-- Adresse localisation de la voiture
+- Adresse de la localisation du véhicule
 - Nombre de Km inclus par jour
 - Loueur Professionnel (oui/non)
 - Description longue
 - Description courte
 - Les coordonnées du loueur
-6. Trouvez un plugin qui permet de créer un espace membre et permettre au loueur d'accéder au back-office et d'ajouter leurs voitures en location.
-7. Créez une page d'accueil de recherche d'un véhicule qui possède les champs suivants :
-- Adresse de location
+6. Trouvez un plugin qui permet de créer un espace membre pour les visiteurs
+7. En plus de votre compte d'administration, créez un nouveau compte avec des droits restreints permettant de créer les articles, voitures et limitez l'accès aux autres menus du back-office.
+9. Créez une page détaillée d'un véhicule contenant toutes les informations et avec un bouton pour faire la demande de location. Au clic sur ce bouton, l'utilisateur est redirigé vers une page avec un formulaire qui possède les champs suivants :
+- Nom
+- Prénom
+- Téléphone
+- Email
 - Date de début de location
 - Date de fin de location
-- Bouton résultats
-8. Une page résultat qui affiche les résultats de la recherche d'un utilisateur
-9. Une page détaillé sur un véhicule avec un bouton pour faire la demande de location.
-10. Trouvez une extension qui permet de récupérer des flux rss de [Turbo](https://www.turbo.fr/actualites.xml) et de les afficher sur une page
+- Message
+- Bouton "Demande de location"
+PS : pour l'affichage des champs ACF, vous pouvez utiliser l'extension [ACF Views Lite](https://wordpress.org/plugins/acf-views/)
+10. Trouvez un moyen de récupérer les flux rss de [Turbo](https://www.turbo.fr/actualites.xml) et de les afficher quelque part sur votre site.
 11. Soyez créatif, ajoutez tout ce que vous voulez...
+WPCode
